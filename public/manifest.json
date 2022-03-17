@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "react-typescript-starter",
+  "name": "thirdweb starter project with React & TypeScript",
   "icons": [
     {
       "src": "favicon.ico",
