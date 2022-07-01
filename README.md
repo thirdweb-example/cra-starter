@@ -1,22 +1,10 @@
 ## Getting Started
 
-First, intall the required dependencies:
+Create a project using this example:
 
 ```bash
-npm install
-# or
-yarn install
+npx thirdweb create --example cra-typescript-starter
 ```
-
-Then, run the development server:
-
-```bash
-npm start
-# or
-yarn start
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `src/index.tsx`. The page auto-updates as you edit the file.
 
