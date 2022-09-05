@@ -3,7 +3,7 @@
 Create a project using this example:
 
 ```bash
-npx thirdweb create --example cra-typescript-starter
+npx thirdweb create --template cra-typescript-starter
 ```
 
 You can start editing the page by modifying `src/index.tsx`. The page auto-updates as you edit the file.
