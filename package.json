@@ -22,6 +22,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "assert": "^2.0.0",
+    "process": "^0.11.10",
     "react-app-rewired": "^2.2.1",
     "stream": "^0.0.2"
   },
